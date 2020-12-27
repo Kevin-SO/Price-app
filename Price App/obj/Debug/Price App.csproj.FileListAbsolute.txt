@@ -1,0 +1,10 @@
+C:\Users\kemal\Desktop\kemal\Price App\bin\Debug\Price App.exe.config
+C:\Users\kemal\Desktop\kemal\Price App\bin\Debug\Price App.exe
+C:\Users\kemal\Desktop\kemal\Price App\bin\Debug\Price App.pdb
+C:\Users\kemal\Desktop\kemal\Price App\obj\Debug\Price App.csprojAssemblyReference.cache
+C:\Users\kemal\Desktop\kemal\Price App\obj\Debug\Price_App.Form1.resources
+C:\Users\kemal\Desktop\kemal\Price App\obj\Debug\Price_App.Properties.Resources.resources
+C:\Users\kemal\Desktop\kemal\Price App\obj\Debug\Price App.csproj.GenerateResource.cache
+C:\Users\kemal\Desktop\kemal\Price App\obj\Debug\Price App.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\kemal\Price App\obj\Debug\Price App.exe
+C:\Users\kemal\Desktop\kemal\Price App\obj\Debug\Price App.pdb
